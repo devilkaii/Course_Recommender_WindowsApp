@@ -1,0 +1,14 @@
+C:\Users\surya\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\surya\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\surya\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.SignUp.resources
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.home.resources
+C:\Users\surya\source\repos\Project\Project\obj\Debug\Project.dashboard.resources
