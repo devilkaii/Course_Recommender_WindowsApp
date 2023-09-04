@@ -4,14 +4,14 @@ Students and job seekers.
 
 #Technology Used
 
-.NET Framework
-C Sharp
-ADO.net
+.NET Framework ,
+C Sharp ,
+ADO.net ,
 SQL server
 
 
 # Software Required
 
-Visual Studio
+Visual Studio ,
 Microsoft SQL Server Management
 
